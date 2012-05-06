@@ -167,8 +167,10 @@ ENDV Mining Mod - A modified version of our space mining mod for spacebuild 2 an
 *Train Assembly STOOL* (To make putting train parts on easier)
 ----
 *Wiremod friendly animated railroad crossing signals and gates*
+Spawn the SENT and wire to the sensor of your choosing in wiremod.
+Future maps hopefully will have wiring nodes for this type of feature.
 ----
-*Steam Locomotive coal tenders* that hold coal and water resources
+*Steam Locomotive coal tenders* to hold Coal and Water resources
 ----
 *Dynamic train braking modules* (Attach to each train car and wire via wiremod to give your train actual brakes, uses air resource. Should be wired to an e2 or number pad or other control device or even a radio link to the locomotive unit and to buttons or analog levers.)
 ----
