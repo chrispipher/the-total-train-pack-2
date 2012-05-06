@@ -1,9 +1,6 @@
-#Second generation of the total train pack addon for garrys mod.
-
 = Introduction =
 
-Welcome to The Total Train Pack 2 wiki.
-
+Welcome to The Total Train Pack 2 wiki page.
 
 =The Total Train Pack 2=
 ----
