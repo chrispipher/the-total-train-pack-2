@@ -1,0 +1,13 @@
+#Second generation of the total train pack addon for garrys mod.
+
+= Introduction =
+
+Welcome to The Total Train Pack 2 wiki.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
