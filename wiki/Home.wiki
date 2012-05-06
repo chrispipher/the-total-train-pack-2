@@ -1,8 +1,9 @@
-= Introduction =
-
-Welcome to The Total Train Pack 2 wiki page.
-
 =The Total Train Pack 2=
+
+==Introduction==
+
+Welcome to The Total Train Pack 2 wiki page. Thank you for choosing and downloading The Total Train Pack 2! Hopefully you will find any and all information about this addon and directions on how to install, apply and use this addon also.
+
 ----
 The second generation of The Total train Pack Railroad models and addons for Garry's Mod.
 
